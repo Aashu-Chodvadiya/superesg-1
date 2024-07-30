@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div>
      <Herobanner />
-     <Card />
+     <Card/>
      <Featured />
      <Strategy />
      <Haircut />

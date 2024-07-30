@@ -6,7 +6,7 @@ export default function Card() {
     return (
         <div className='card-section'>
             <div className='container'>
-                <div className='card-grid animate__animated  animate__fadeInDown wow'  data-wow-offset='1           00'>
+                <div className='card-grid animate__animated  animate__fadeInDown wow'  data-wow-offset='100'>
 
                     <div>
                         <div className='card-item'>
